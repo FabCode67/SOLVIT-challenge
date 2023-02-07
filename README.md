@@ -44,3 +44,7 @@ You should also test the script with different inputs to make sure it's working 
 ### for Challenge 2
 
 - open terminal and type <i style= "color:yellow" > node vowel-counter.js  hello world</i>
+
+## Author
+
+- mwanafunzifabrice@gmail.com
