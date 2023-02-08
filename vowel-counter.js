@@ -1,13 +1,8 @@
-const inputString = process.argv[2];
+const inputString = process.argv.slice(2).join(' ');
 try{
     const vowels = /[aeiou]/gi;
-    const vowelCount = (inputString.match(vowels));
-    if (vowelCount){
-        console.log(vowelCount.length+1);
-    }
-    else{
-        console.log((vowelCount ||[]).length);
-    }
+    const vowelCount = (inputString.match(vowels)||[]).length;
+    console.log(vowelCount);
 } catch(error){
-    console.log("Enter a string please!");
+    console.log(error);
 }
