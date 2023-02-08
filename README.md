@@ -1,4 +1,4 @@
-# SOLVEIT-challenge
+# SOLVIT-challenge
 ## Challenge 1: 
 ### Create a Node.js script that takes in a string as a command line argument and returns the string reversed.
 ## Description:
@@ -34,7 +34,7 @@ You should also test the script with different inputs to make sure it's working 
 ## How to use it
 
 - install Node
-- use <i style= "color:yellow"> git clone </i> https://github.com/FabCode67/SOLVeIT-challenge
+- use <i style= "color:yellow"> git clone </i> https://github.com/FabCode67/SOLVIT-challenge
 - navigate to folder <i style= "color:yellow"> cd SOLVeIT-challenge </i>
 
 ### for Challenge 1
